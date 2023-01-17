@@ -9,6 +9,7 @@ application/logs/*
 !application/*/.htaccess
 
 assets
+user_guide
 
 composer.lock
 
